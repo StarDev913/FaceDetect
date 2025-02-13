@@ -65,3 +65,9 @@ The cascades of classifiers are formed from the features obtained by the gentle 
 # Output :
 
 To see the output video, go to the media file and check the output video
+
+
+
+
+
+
